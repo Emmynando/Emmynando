@@ -2,7 +2,7 @@
 - 👀 I’m interested in frontend stack
 -  Fluent in html, CSS amd Javascript
 - 🌱 I’m currently learning REACT
-- 💞️ I’m looking to collaborate on any project wither on a large or small scale
+- 💞️ I’m looking to collaborate on any project whether on a large or small scale
 - 📫 How to reach me +234 9063789936
 
 <!---
