@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Emmynando
-- 👀 I am  interested in frontend Development
+- 👀 A Fullstack developer
 -  Fluent in html, CSS,Javascript, React, Typescript and Node
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on any project whether on a large or small scale
+- 💞️ I am open to collaboration and remote jobs
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/chukwuemeka-okezie-2b1335177)
 
 <!---
