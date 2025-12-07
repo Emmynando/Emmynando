@@ -3,7 +3,7 @@
 -  Fluent in html, CSS,Javascript, React, Typescript and Node
 - 🌱 I’m currently learning Python
 - 💞️ I am open to collaboration and remote jobs
-- 📫 Reach me on [LinkedIn](www.linkedin.com/in/chukwuemeka-joshua-okezie-2b1335177)
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/chukwuemeka-joshua-okezie-2b1335177)
 
 <!---
 Emmynando/Emmynando is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
